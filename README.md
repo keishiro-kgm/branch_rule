@@ -5,3 +5,4 @@
 ## developブランチを切りました
 
 ### developからfeatureを切りました。
+### 開発が進む
